@@ -1,4 +1,4 @@
-# QuantConnect-tradingbot
+# QuantConnect-tradingbot on QUANTCONNECT
 import numpy as np
 class FatRedOrangeLeopard(QCAlgorithm):
 
